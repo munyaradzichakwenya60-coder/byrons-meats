@@ -142,11 +142,11 @@ body {
 
 .hero-content h2 {
   font-family: 'Open Sans', sans-serif;
-  font-size: clamp(11px, 1.4vw, 16px);
+  font-size: clamp(11px, 1.4vw, 15px);
   font-weight: 600;
   color: var(--gold);
   text-transform: uppercase;
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   margin-bottom: 32px;
 }
 

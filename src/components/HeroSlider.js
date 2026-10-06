@@ -14,10 +14,10 @@ const slides = [
     ],
   },
   {
-    bg: 'https://ourbyo.co.zw/wp-content/uploads/2020/08/Butchery-in-Bulawayo.jpg',
+    bg: 'https://images.unsplash.com/photo-1558030006-450675393462?auto=format&fit=crop&w=1600&q=85',
     headline1: 'FROM OUR FARM',
     headline2: 'TO YOUR TABLE',
-    sub: 'FARMED IN FIGTREE · ZIMBABWE',
+    sub: 'FARMED IN FIGTREE   ZIMBABWE',
     buttons: [
       { label: 'ORDER NOW',  outline: false },
       { label: 'SEE MENU',   outline: true  },
@@ -27,7 +27,7 @@ const slides = [
     bg: 'https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=1600&q=85',
     headline1: 'FRESH CUTS',
     headline2: 'EVERY DAY',
-    sub: 'BEEF · PORK · LAMB · CHICKEN · VENISON',
+    sub: 'BEEF   PORK   LAMB   CHICKEN   VENISON',
     buttons: [
       { label: 'SHOP VENISON', outline: false },
       { label: 'SHOP LAMB',    outline: true  },
